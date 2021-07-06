@@ -1,0 +1,20 @@
+1. python (must have)
+2. c++ or java (not main)
+3. tensorflow or pytorch
+4. coursera (ml)(must have)
+5. nlp or deep learning or data science or ml(books or papers from conferences)
+6. kaggle exercises (not main)
+7. trainee in nice company (must have) 
+8. algoritmic code
+
+interview
+1. free speaking
+2. how to classify cats and dogs
+3. methods or models
+4. pep8
+5. white board interview
+
+data sources
+1. lection (shad)
+2. yandex coursera ml
+3. probablistic graphical models principles and technique
